@@ -2,6 +2,8 @@
 
 INCLUIDES HAT,SHIRT
 
+SHIRT HAS SHIRT2 FOR EVERY RANK IN FINNISH SECURITAS!
+
 If you add this to fivem server, files are ready for fivem and just drag and drop them from the fivem folder to your eup_steam or whatever.
 
 If you add this to singleplayer, Drag all those files (not the folders) - 
